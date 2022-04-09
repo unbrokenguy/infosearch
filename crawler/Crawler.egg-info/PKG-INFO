@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: Crawler
+Version: 0.0.1
+Summary: Crawl web pages easily
+Home-page: UNKNOWN
+Author: Khaziev Bulat 11-806
+Author-email: khazievbulatphanzilovich@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+UNKNOWN
+

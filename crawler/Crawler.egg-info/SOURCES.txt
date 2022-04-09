@@ -1,0 +1,11 @@
+LICENSE
+setup.py
+Crawler.egg-info/PKG-INFO
+Crawler.egg-info/SOURCES.txt
+Crawler.egg-info/dependency_links.txt
+Crawler.egg-info/entry_points.txt
+Crawler.egg-info/not-zip-safe
+Crawler.egg-info/requires.txt
+Crawler.egg-info/top_level.txt
+crawler/__init__.py
+crawler/__main__.py
